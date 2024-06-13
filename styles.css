@@ -5,8 +5,8 @@
   position: fixed;
   right: 0;
   bottom: 0;
-  min-width: 75%;
-  min-height: 75%;
+  min-width: 50;
+  min-height: 50;
 }
 #myBtn {
   width: 200px;
